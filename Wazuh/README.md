@@ -41,4 +41,4 @@ Nah itu tugas kalian hehe.
     - Agent tidak boleh berada di server yang sama dengan wazuh server
     - Agent harus terdiri dari satu mesin linux, dan 1 mesin windows
 
-2. Lakukan analisis mendalam tentang penemuan kalian di dashboard wazuh, seperti vulnerability yang ditemukan, malware, dll. Pada beberapa penggunaan memungkinkan kalian untuk menginstall plugin / program tambahan untuk bisa menjalankan analisisnya. Semakin bagus analisis, semakin baik nilainya. Screenshot visualisasinya dan masukkan ke repo hasil analisis wazuh
+2. Lakukan analisis mendalam tentang penemuan kalian di dashboard wazuh, seperti vulnerability yang ditemukan, malware, dll. Pada beberapa penggunaan memungkinkan kalian untuk menginstall plugin / program tambahan untuk bisa menjalankan analisisnya. Semakin bagus analisis, semakin baik nilainya. Screenshot visualisasinya dan buat artikel di medium
